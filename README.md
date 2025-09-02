@@ -29,19 +29,6 @@ Tech Stack
 
 ---
 
-Project Structure
-
-Event-Management/
-│ main.py # App entry point
-│
-└───pages/
-│ event.py # Event page
-│ signin.py # Sign In page
-│ signup.py # Sign Up page
-| home.py # Home Page
-| 
----
-
 Getting Started
 
 1. Clone the Repository
@@ -65,11 +52,12 @@ Go to http://localhost:8080
 
 
 /////////////////////////////////////////////////
+
 Future Improvements
 
-Save users and events to a database
-Add authentication & session management
-Event editing and deletion
-Calendar integration
+- Save users and events to a database
+- Add authentication & session management
+- Event editing and deletion
+- Calendar integration
 
 
