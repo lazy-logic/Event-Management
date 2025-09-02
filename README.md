@@ -1,4 +1,4 @@
-# Event-Management
+# COllege Event-Management
 A college event management system developed using NiceGUI
 
 A simple web-based Event Management System built with [NiceGUI](https://nicegui.io).  
