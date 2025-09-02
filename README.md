@@ -48,7 +48,7 @@ pip install nicegui
 python main.py
 
 5. Open in Browser
-Go to http://localhost:8080
+Go to http://localhost:8080/signup
 
 
 /////////////////////////////////////////////////
