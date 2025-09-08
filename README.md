@@ -1,4 +1,4 @@
-# College Event-Management
+# Event-Management
 A college event management system developed using NiceGUI
 
 A simple web-based Event Management System built with [NiceGUI](https://nicegui.io).  
@@ -29,6 +29,19 @@ Tech Stack
 
 ---
 
+Project Structure
+
+Event-Management/
+│ main.py # App entry point
+│
+└───pages/
+│ event.py # Event page
+│ signin.py # Sign In page
+│ signup.py # Sign Up page
+| home.py # Home Page
+| 
+---
+
 Getting Started
 
 1. Clone the Repository
@@ -48,16 +61,15 @@ pip install nicegui
 python main.py
 
 5. Open in Browser
-Go to http://localhost:8080/signup
+Go to http://localhost:8080
 
 
 /////////////////////////////////////////////////
-
 Future Improvements
 
-- Save users and events to a database
-- Add authentication & session management
-- Event editing and deletion
-- Calendar integration
+Save users and events to a database
+Add authentication & session management
+Event editing and deletion
+Calendar integration
 
 
